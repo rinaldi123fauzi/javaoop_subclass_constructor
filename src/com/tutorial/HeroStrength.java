@@ -1,5 +1,6 @@
 package com.tutorial;
 
+//subclass
 public class HeroStrength extends Hero {
 
     //constructor
